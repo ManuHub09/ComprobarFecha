@@ -10,6 +10,8 @@ namespace ComprobarFechas
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Paco");
+            Console.WriteLine("Pedro");
         }
     }
 }
