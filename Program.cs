@@ -12,6 +12,7 @@ namespace ComprobarFechas
         {
             Console.WriteLine("Paco");
             Console.WriteLine("Pedro");
+            Console.WriteLine("Pedro");
         }
     }
 }
